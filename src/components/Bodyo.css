@@ -1,0 +1,33 @@
+.bodyo {
+  background: url("https://149842022.v2.pressablecdn.com/wp-content/uploads/sites/59/2016/03/photo-1443527216320-7e744084f5a7-1.jpg");
+
+  /* padding: 35rem 0rem; */
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+}
+.bo-h1 {
+  font-size: 80px;
+  line-height: 80px;
+  font-weight: 100;
+}
+.bo-card {
+  color: white;
+  text-align: center;
+  margin: auto;
+}
+.bo-p {
+  padding: 40px 0px;
+  font-size: 20px;
+}
+.bo-btn1 {
+  color: white;
+  border: none;
+  background-color: #745cf9;
+  padding: 77px 70px;
+  font-weight: 700;
+  font-size: 15px;
+}
