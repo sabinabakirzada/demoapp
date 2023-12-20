@@ -1,0 +1,31 @@
+.bodyTwo {
+  max-width: 2000px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  gap: 150px;
+  align-items: center;
+  padding: 80px 0px 120px 0px;
+}
+.bt-img {
+  width: 652px;
+  height: 452px;
+}
+.bt-card {
+  width: 400px;
+  line-height: 24px;
+  font-size: 14px;
+  color: #8c979e;
+}
+
+.bt-h2 {
+  font-size: 30px;
+  padding-bottom: 30px;
+  color: black;
+  font-weight: 100;
+}
+.bt-p {
+  font-size: 17px;
+  font-weight: 100;
+  padding-bottom: 30px;
+}

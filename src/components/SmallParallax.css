@@ -1,0 +1,23 @@
+.smallparallax {
+  background-image: url("https://149842022.v2.pressablecdn.com/wp-content/uploads/sites/59/2016/12/photo-1452723312111-3a7d0db0e024.jpg");
+  /* min-height: 300px; */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  max-width: 2000px;
+  margin: auto;
+  text-align: center;
+  padding: 6rem 0rem;
+}
+
+.s-h1 {
+  font-size: 60px;
+  line-height: 64px;
+  font-weight: 100;
+}
+.s-p {
+  padding: 40px 250px;
+  font-size: 15px;
+}

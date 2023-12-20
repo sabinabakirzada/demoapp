@@ -1,8 +1,16 @@
 header {
+  max-width: 2000px;
+  margin: auto;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 2.2rem 35rem;
+  padding: 1.5rem 18rem;
+  background-color: white;
+}
+header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
 }
 
 .h-ul {
@@ -12,14 +20,25 @@ header {
   padding-right: 60px;
 }
 .h-h1 {
-  font-weight: normal;
+  font-weight: 100;
   font-size: 30px;
-  font-weight: 300;
+
+  color: #666;
+}
+
+.h-h1:hover {
+  color: black;
+  cursor: pointer;
 }
 
 .h-ul li {
   font-size: 16px;
   font-weight: 300;
+  color: #4c4c4c;
+}
+.h-ul li:hover {
+  color: #0693e3;
+  cursor: pointer;
 }
 
 .h-p {
